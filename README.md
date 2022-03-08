@@ -1,8 +1,8 @@
 # The Odin Project - restaurant page
 
-Please see [The Odin Project]() for the project description.
+Please see [The Odin Project](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/restaurant-page) for the project description.
 
-[Live](https://www.theodinproject.com/paths/full-stack-javascript/courses/javascript/lessons/restaurant-page) Site.
+[Live](https://cdevelopment010.github.io/TOP-restaurant-page/) Site.
 
 ![](./screenshot.png)
 
